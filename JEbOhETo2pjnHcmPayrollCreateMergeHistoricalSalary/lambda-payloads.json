@@ -1,0 +1,22 @@
+{
+    "JEbOhETo2pjnHcmPayrollCreateMergeHistoricalSalary": {
+        "lambda": {
+            "headers": {
+                "X-Senior-Token": "bearer 945b2a1119259d9440e2a26a5af7fcaf"
+            },
+            "body": {
+                "id": "5EC3BA5070B55542A7984B8FF2FADD29",
+                "dateWhen": "2020-12-01",
+                "employee": {
+                    "id": "C7FA2299595B47CD80749B3BA9FB7346"
+                },
+                "salaryType": "Monthly",
+                "valueCrypto": 1300,
+                "movimentationReason": {
+                    "id": "E3B1B92676B94FE88C2C603F7D72BBEC"
+                },
+                "custom": {}
+            }
+        }
+    }
+}
