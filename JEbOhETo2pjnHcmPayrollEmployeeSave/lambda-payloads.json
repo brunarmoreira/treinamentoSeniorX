@@ -1,0 +1,261 @@
+{
+    "JEbOhETo2pjnHcmPayrollEmployeeSave": {
+        "lambda": {
+            "headers": {
+                "X-Senior-Token": "bearer e944d7b9bd86be8e72e46d60e88c9664"
+            },
+            "body": {
+                "sheetContract": {
+                    "admissionOriginType": {
+                        "key": "NORMAL",
+                        "value": "Normal"
+                    },
+                    "hireDate": "2020-01-01",
+                    "registernumber": 121,
+                    "hireType": {
+                        "key": "FirstJob",
+                        "value": "1 - Primeiro Emprego"
+                    },
+                    "situation": {
+                        "tableId": "42746D1E4ADB427D93C5801E14AC4C33",
+                        "name": "Trabalhando"
+                    },
+                    "movimentationReason": {
+                        "tableId": "E3B1B92676B94FE88C2C603F7D72BBEC",
+                        "name": "Admissão"
+                    },
+                    "eSocialAdmissionType": {
+                        "key": "TYPE_01",
+                        "value": "Admissão"
+                    },
+                    "categoryESocial": {
+                        "key": "Category_101",
+                        "value": "101 - Empregado - Geral, inclusive o empregado público da administração direta ou indireta contratado pela CLT (Vigente desde 01/01/2020)"
+                    },
+                    "sefipCategoryType": {
+                        "key": "TYPE_01",
+                        "value": "Empregado (Vigente desde 01/01/2020)"
+                    },
+                    "unemploymentInsuranceType": {
+                        "key": "NOT_CONSULTED",
+                        "value": "Não consultado"
+                    },
+                    "appearsinRais": "true",
+                    "raisDepartment": {
+                        "tableId": "9857DAD3F151405FBF79164B2006B09E",
+                        "name": "BLUMENAU"
+                    },
+                    "actingType": {
+                        "tableId": "CE03112624F84BBAA3B79445E97A4C95",
+                        "name": "Atuação Principal"
+                    },
+                    "employeeType": {
+                        "key": "EMPLOYEE",
+                        "value": "1 - Colaborador"
+                    },
+                    "employmentRelationship": {
+                        "tableId": "B471E030FE3740009D8E686CB9457C37",
+                        "name": "10 - Trb.Urb,Emp.Jur,CLT (Vigente desde 01/01/2020)"
+                    },
+                    "duration": 90,
+                    "extension": 0,
+                    "endDate": "2020-03-30",
+                    "customFieldsEmployee": [
+                        {
+                            "field": "USU_CARCOF",
+                            "value": null
+                        }
+                    ],
+                    "customFieldsHistoricalExpenseNature": []
+                },
+                "sheetDocument": {
+                    "cpfNumber": "69817337065",
+                    "pisNumber": "14890539022",
+                    "customFieldsRg": []
+                },
+                "sheetFinancial": {
+                    "payType": {
+                        "key": "Monthly",
+                        "value": "Mensal"
+                    },
+                    "payMode": {
+                        "key": "PayOrder",
+                        "value": "Ordem pagamento"
+                    },
+                    "receivesThirteenthSalary": "true",
+                    "receivesSalaryAdvance": "true",
+                    "fgtsInterestRate": 3,
+                    "fgtsOptingDate": "2020-01-01",
+                    "optingForFGTS": "true",
+                    "customFieldsAccount": [],
+                    "useHistoricalBankAccount": false,
+                    "hireDate": "1900-01-01"
+                },
+                "sheetInitial": {
+                    "company": {
+                        "tableId": "583B1427EFF14D0987A20A007742148C",
+                        "name": "1 - Demonstra Ind.& Com. Têxtil S/A"
+                    },
+                    "contractNationality": {
+                        "key": "National",
+                        "value": "1 - Nacional"
+                    },
+                    "employee": {
+                        "tableId": "0DEAABAFD849487FA8CF913C8603A327",
+                        "name": "Joao da Silva"
+                    },
+                    "contractType": {
+                        "key": "Employee",
+                        "value": "1 - Empregado"
+                    },
+                    "person": {
+                        "tableId": "CCCE603AF08B4FA08E211E1F09DA89C6",
+                        "name": "Joao da Silva"
+                    }
+                },
+                "sheetPersona": {
+                    "gender": {
+                        "key": "Male",
+                        "value": "Masculino"
+                    },
+                    "birthday": "1983-10-11",
+                    "maritalStatus": {
+                        "key": "Married",
+                        "value": "2 - Casado"
+                    },
+                    "degreeOfEducation": {
+                        "tableId": "594F7415016844DDB3AA77BFC25C3752",
+                        "name": "8 - Superior Incompleto"
+                    },
+                    "nationality": {
+                        "tableId": "AC9C0557016549E59BA112FDC93452E2",
+                        "name": "10 - Brasileiro"
+                    },
+                    "race": {
+                        "key": "White",
+                        "value": "1 - Branca"
+                    },
+                    "isDisability": "false",
+                    "isOccupantQuota": "false",
+                    "customFieldsPerson": []
+                },
+                "sheetPlace": {
+                    "workstationGroup": {
+                        "tableId": "A9FD39A80C35406186210FE93A832D58",
+                        "name": "ADM005 - Telefonia e Recepção (Vigente desde 01/01/2020)"
+                    },
+                    "branch": {
+                        "tableId": "9A7FFE10838F480BA859717DB2BB4705",
+                        "name": "1 - Demonstra S/A - Matriz (Vigente desde 01/01/2020)"
+                    },
+                    "costCenter": {
+                        "tableId": "5AAEE90AA1FA40CD9BEC2F6510E447DA",
+                        "name": "14 - Administrativo (Vigente desde 01/01/2020)"
+                    },
+                    "department": {
+                        "tableId": "EA1FABC7898743419F9C7EEA79CA2C62",
+                        "name": "1.02 - Administração (Vigente desde 01/01/2020)"
+                    },
+                    "jobPosition": {
+                        "tableId": "F95EB9ED39924F988C5055594FC2BB01",
+                        "name": "6 - Telefonista/Recepcionista (Vigente desde 01/01/2020)"
+                    },
+                    "workstationGroupStartDate": "2020-01-01",
+                    "branchStartDate": "2020-01-01",
+                    "costCenterStartDate": "2020-01-01",
+                    "departmentStartDate": "2020-01-01",
+                    "jobPositionStartDate": "2020-01-01",
+                    "customFieldsHistoricalWorkstation": [],
+                    "customFieldsHistoricalCostCenter": [],
+                    "customFieldsHistoricalJobPosition": [],
+                    "customFieldsHistoricalCompanyBranch": [],
+                    "customFieldsHistoricalDepartment": []
+                },
+                "sheetSalary": {
+                    "salaryType": {
+                        "key": "Monthly",
+                        "value": "Mensalista (Vigente desde 01/01/2020)"
+                    },
+                    "salary": "3000.00",
+                    "customFieldsHistoricalSalary": []
+                },
+                "sheetSyndicate": [
+                    {
+                        "syndicate": {
+                            "tableId": "9A8DE33417334DD3845E4562BC5DD228",
+                            "name": "Sind. Indústria Blumenau (Vigente desde 01/01/2020)"
+                        },
+                        "isMainSyndicate": true,
+                        "isUnionized": false,
+                        "isAssistanceFee": false,
+                        "isCosting": false,
+                        "isReversion": false
+                    }
+                ],
+                "sheetWorkSchedule": {
+                    "workshiftStartDate": "2020-01-01",
+                    "workshift": {
+                        "tableId": "AE6B76BCAA2D403CBEE2D7D584E859AD",
+                        "name": "07:00 13:00/13:00 19:00 (Vigente desde 01/01/2020)"
+                    },
+                    "workshiftGroup": {
+                        "tableId": "012BF29C7E38441CA835F2F2F78439DF",
+                        "name": "1 (Vigente desde 01/01/2020)"
+                    },
+                    "customFieldsHistoricalWorkshift": []
+                },
+                "sheetOtherContract": {
+                    "otherContractType": {
+                        "key": "SINGLE_CONTRACT",
+                        "value": "Contrato único"
+                    },
+                    "customFieldsOtherContract": []
+                },
+                "sheetEntries": {},
+                "sheetComplement": {
+                    "retirementType": null,
+                    "retirementDate": null,
+                    "taxExemption": null,
+                    "movementSefipRetirement": null,
+                    "transportationVoucherScale": null,
+                    "pointEmbarkation": null,
+                    "transportationVoucherStartDate": null,
+                    "healthAndSafety": {
+                        "lastMedicalExaminationDate": null,
+                        "nextMedicalExaminationDate": null
+                    },
+                    "healthPlan": {
+                        "healthPlanType": null,
+                        "healthPlanCode": null,
+                        "registrationCode": null,
+                        "inclusionDate": null,
+                        "exclusionDate": null,
+                        "healthplanCode": null
+                    },
+                    "qualificationStructure": {
+                        "qualification": null,
+                        "wagescale": null,
+                        "wageclass": null,
+                        "wagelevel": null
+                    },
+                    "badge": null,
+                    "issueDotCard": {
+                        "key": "No",
+                        "value": "Não"
+                    },
+                    "controlPoint": {
+                        "key": "TYPE_4",
+                        "value": "Não Conta"
+                    },
+                    "deleteClockingEventType": null,
+                    "customFieldsHistoricalTransportationVoucherScale": [],
+                    "customFieldsRetirement": [],
+                    "healthPlanType": null
+                }
+            }
+        }
+    },
+    "": {
+        "lambda": {}
+    }
+}
